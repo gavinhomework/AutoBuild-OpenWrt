@@ -66,6 +66,7 @@ jobs:
         git clone --depth 1 $REPO_URL -b $REPO_BRANCH openwrt
         cd openwrt
         echo "src-git ssrp https://github.com/fw876/helloworld.git" >> ./feeds.conf.default
+        echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
         
     - name: Update & Install feeds
       working-directory: ./openwrt
@@ -104,7 +105,7 @@ jobs:
       working-directory: ./openwrt
       run: |
         echo -e "$(nproc) thread build."
-        make -j$(nproc) V=s
+        make -j$(nproc) || make -j1
 
     - name : Upload artifact
       uses: actions/upload-artifact@master
