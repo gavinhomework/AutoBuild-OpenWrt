@@ -15,11 +15,11 @@ on:
   #  branches: 
   #    - master
 
-  #schedule:
-  #  - cron: 0 8 * * 5
+  schedule:
+    - cron: 0 8 * * 5
   
-  #watch:
-  #  types: [started]
+  watch:
+    types: [started]
 
 jobs:
   build:
@@ -65,6 +65,7 @@ jobs:
         git clone --depth 1 $REPO_URL -b $REPO_BRANCH openwrt
         cd openwrt
         echo "src-git ssrp https://github.com/fw876/helloworld.git" >> ./feeds.conf.default
+        echo 'src-git openclash https://github.com/vernesong/OpenClash' >>feeds.conf.default
         
     - name: Update & Install feeds
       working-directory: ./openwrt
