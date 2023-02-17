@@ -61,7 +61,7 @@ jobs:
         echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2' >> ./feeds.conf.default
         echo 'src-git openclash https://github.com/vernesong/OpenClash' >> ./feeds.conf.default
         echo 'src-git bypass https://github.com/tianiue/luci-app-bypass' >> ./feeds.conf.default
-        
+        echo 'src-git vssr https://github.com/jerrykuku/luci-app-vssr' >> ./feeds.conf.default
     - name: Update & Install feeds
       working-directory: ./openwrt
       run: |
