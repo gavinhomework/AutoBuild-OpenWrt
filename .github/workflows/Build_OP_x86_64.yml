@@ -57,11 +57,8 @@ jobs:
         git clone --depth 1 $REPO_URL -b $REPO_BRANCH openwrt
         cd openwrt
         echo "src-git ssrp https://github.com/fw876/helloworld.git" >> ./feeds.conf.default
-        echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >> ./feeds.conf.default
-        echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2' >> ./feeds.conf.default
         echo 'src-git openclash https://github.com/vernesong/OpenClash' >> ./feeds.conf.default
-        echo 'src-git bypass https://github.com/tianiue/luci-app-bypass' >> ./feeds.conf.default
-        echo 'src-git vssr https://github.com/jerrykuku/luci-app-vssr' >> ./feeds.conf.default
+    
     - name: Update & Install feeds
       working-directory: ./openwrt
       run: |
@@ -91,10 +88,8 @@ jobs:
     - name: Download package
       working-directory: ./openwrt
       run: |
-        make download -j$(nproc)
-        find dl -size -1024c -exec ls -l {} \;
-        find dl -size -1024c -exec rm -f {} \;
-
+        make download -j$(nproc) || make download -j1 V=sc
+        
     - name: Build firmware
       working-directory: ./openwrt
       run: |
