@@ -92,7 +92,7 @@ jobs:
     - name: Download package
       working-directory: ./openwrt
       run: |
-        make download -j$(nproc) || make download -j1 V=sc
+        make download -j8 || make download -j1 V=sc
         
     - name: Build firmware
       working-directory: ./openwrt
