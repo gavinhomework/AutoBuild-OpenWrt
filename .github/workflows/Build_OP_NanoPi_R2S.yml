@@ -2,11 +2,11 @@ name: Build_NanoPi_R2S
 
 on: 
   release:
-    #types: [published]
+    types: [published]
 
-  push:
-    branches: 
-      - master
+  #push:
+    #branches: 
+      #- master
 
 jobs:
   build:
