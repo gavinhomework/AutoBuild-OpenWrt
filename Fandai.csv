@@ -1,4 +1,4 @@
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 47.79.35.195,443,TRUE,NRT,Asia Pacific,Tokyo,70 ms,23336 kB/s
 47.79.36.110,443,TRUE,NRT,Asia Pacific,Tokyo,59 ms,19026 kB/s
 8.210.140.91,443,TRUE,TPE,Asia Pacific,Taipei,50 ms,14372 kB/s
