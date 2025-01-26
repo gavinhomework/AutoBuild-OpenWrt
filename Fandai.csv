@@ -1,41 +1,21 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.79.35.195,443,TRUE,NRT,Asia Pacific,Tokyo,70 ms,23336 kB/s
-47.79.36.110,443,TRUE,NRT,Asia Pacific,Tokyo,59 ms,19026 kB/s
-8.210.140.91,443,TRUE,TPE,Asia Pacific,Taipei,50 ms,14372 kB/s
-8.217.22.201,443,TRUE,TPE,Asia Pacific,Taipei,49 ms,13995 kB/s
-8.219.89.195,443,TRUE,SIN,Asia Pacific,Singapore,84 ms,13617 kB/s
-8.219.239.96,443,TRUE,SIN,Asia Pacific,Singapore,98 ms,12899 kB/s
-8.219.62.42,443,TRUE,SIN,Asia Pacific,Singapore,83 ms,12758 kB/s
-8.222.83.233,443,TRUE,NRT,Asia Pacific,Tokyo,90 ms,12545 kB/s
-8.212.44.95,443,TRUE,HKG,Asia Pacific,Hong Kong,50 ms,12067 kB/s
-8.219.111.131,443,TRUE,SIN,Asia Pacific,Singapore,84 ms,11849 kB/s
-8.219.163.134,443,TRUE,SIN,Asia Pacific,Singapore,117 ms,9334 kB/s
-8.219.112.233,443,TRUE,SIN,Asia Pacific,Singapore,88 ms,9069 kB/s
-8.219.190.26,443,TRUE,SIN,Asia Pacific,Singapore,102 ms,7918 kB/s
-8.219.193.143,443,TRUE,SIN,Asia Pacific,Singapore,121 ms,7401 kB/s
-47.79.3.220,443,TRUE,SIN,Asia Pacific,Singapore,224 ms,7116 kB/s
-47.245.114.116,443,TRUE,SIN,Asia Pacific,Singapore,217 ms,7113 kB/s
-47.245.107.134,443,TRUE,SIN,Asia Pacific,Singapore,217 ms,7050 kB/s
-47.236.11.86,443,TRUE,SIN,Asia Pacific,Singapore,216 ms,7044 kB/s
-47.245.120.194,443,TRUE,SIN,Asia Pacific,Singapore,217 ms,6998 kB/s
-8.222.225.145,443,TRUE,SIN,Asia Pacific,Singapore,221 ms,6575 kB/s
-47.245.95.40,443,TRUE,SIN,Asia Pacific,Singapore,225 ms,6467 kB/s
-8.219.184.198,443,TRUE,SIN,Asia Pacific,Singapore,117 ms,6302 kB/s
-47.245.104.29,443,TRUE,SIN,Asia Pacific,Singapore,225 ms,6030 kB/s
-8.219.128.66,443,TRUE,SIN,Asia Pacific,Singapore,125 ms,4973 kB/s
-47.79.20.64,443,TRUE,HKG,Asia Pacific,Hong Kong,275 ms,4941 kB/s
-154.31.113.72,443,TRUE,NRT,Asia Pacific,Tokyo,98 ms,22965 kB/s
-154.17.238.60,443,TRUE,LAX,North America,Los Angeles,157 ms,11592 kB/s
-154.3.37.10,443,TRUE,HKG,Asia Pacific,Hong Kong,51 ms,11357 kB/s
-154.3.37.31,443,TRUE,HKG,Asia Pacific,Hong Kong,52 ms,11133 kB/s
-154.17.224.83,443,TRUE,LAX,North America,Los Angeles,154 ms,9801 kB/s
-154.17.235.123,443,TRUE,LAX,North America,Los Angeles,155 ms,9383 kB/s
-154.17.234.51,443,TRUE,LAX,North America,Los Angeles,154 ms,9249 kB/s
-154.3.34.59,443,TRUE,HKG,Asia Pacific,Hong Kong,51 ms,8615 kB/s
-154.17.30.43,443,TRUE,LAX,North America,Los Angeles,202 ms,7882 kB/s
-154.26.179.89,443,TRUE,LAX,North America,Los Angeles,190 ms,7805 kB/s
-154.21.88.20,443,TRUE,LAX,North America,Los Angeles,186 ms,7580 kB/s
-154.26.177.9,443,TRUE,LAX,North America,Los Angeles,189 ms,7397 kB/s
-154.26.186.85,443,TRUE,LAX,North America,Los Angeles,187 ms,7258 kB/s
-154.12.177.214,443,TRUE,HKG,Asia Pacific,Hong Kong,52 ms,7149 kB/s
-154.3.32.37,443,TRUE,HKG,Asia Pacific,Hong Kong,50 ms,5774 kB/s
+8.219.72.167,443,TRUE,SIN,Asia Pacific,Singapore,81 ms,13578 kB/s
+8.219.60.100,443,TRUE,SIN,Asia Pacific,Singapore,83 ms,12512 kB/s
+8.219.79.98,443,TRUE,SIN,Asia Pacific,Singapore,84 ms,11826 kB/s
+8.219.232.57,443,TRUE,SIN,Asia Pacific,Singapore,117 ms,11572 kB/s
+8.219.164.51,443,TRUE,SIN,Asia Pacific,Singapore,116 ms,11568 kB/s
+8.219.251.139,443,TRUE,SIN,Asia Pacific,Singapore,98 ms,11416 kB/s
+8.219.80.215,443,TRUE,SIN,Asia Pacific,Singapore,85 ms,11172 kB/s
+8.219.125.13,443,TRUE,SIN,Asia Pacific,Singapore,83 ms,11074 kB/s
+8.219.142.145,443,TRUE,SIN,Asia Pacific,Singapore,121 ms,10878 kB/s
+8.219.104.103,443,TRUE,SIN,Asia Pacific,Singapore,84 ms,10697 kB/s
+38.38.116.189,443,TRUE,LAX,North America,Los Angeles,199 ms,10968 kB/s
+38.38.116.186,443,TRUE,LAX,North America,Los Angeles,204 ms,10938 kB/s
+38.38.116.184,443,TRUE,LAX,North America,Los Angeles,191 ms,10753 kB/s
+38.38.116.180,443,TRUE,LAX,North America,Los Angeles,202 ms,9981 kB/s
+38.28.222.84,443,TRUE,LAX,North America,Los Angeles,173 ms,9864 kB/s
+38.38.116.183,443,TRUE,LAX,North America,Los Angeles,172 ms,9783 kB/s
+38.28.194.80,443,TRUE,LAX,North America,Los Angeles,204 ms,9649 kB/s
+38.28.198.155,443,TRUE,LAX,North America,Los Angeles,193 ms,9591 kB/s
+38.28.222.83,443,TRUE,LAX,North America,Los Angeles,202 ms,9520 kB/s
+38.28.222.68,443,TRUE,LAX,North America,Los Angeles,204 ms,9485 kB/s
