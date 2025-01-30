@@ -1,14 +1,14 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.219.72.167,443,TRUE,SIN,Asia Pacific,Singapore,81 ms,13578 kB/s
-8.219.60.100,443,TRUE,SIN,Asia Pacific,Singapore,83 ms,12512 kB/s
-8.219.79.98,443,TRUE,SIN,Asia Pacific,Singapore,84 ms,11826 kB/s
-8.219.232.57,443,TRUE,SIN,Asia Pacific,Singapore,117 ms,11572 kB/s
-8.219.164.51,443,TRUE,SIN,Asia Pacific,Singapore,116 ms,11568 kB/s
-8.219.251.139,443,TRUE,SIN,Asia Pacific,Singapore,98 ms,11416 kB/s
-8.219.80.215,443,TRUE,SIN,Asia Pacific,Singapore,85 ms,11172 kB/s
-8.219.125.13,443,TRUE,SIN,Asia Pacific,Singapore,83 ms,11074 kB/s
-8.219.142.145,443,TRUE,SIN,Asia Pacific,Singapore,121 ms,10878 kB/s
-8.219.104.103,443,TRUE,SIN,Asia Pacific,Singapore,84 ms,10697 kB/s
+8.219.57.216,443,TRUE,SIN,Asia Pacific,Singapore,83 ms,13413 kB/s
+8.219.74.101,443,TRUE,SIN,Asia Pacific,Singapore,84 ms,10184 kB/s
+8.219.1.162,443,TRUE,SIN,Asia Pacific,Singapore,83 ms,9142 kB/s
+8.222.179.194,443,TRUE,SIN,Asia Pacific,Singapore,216 ms,8050 kB/s
+8.222.133.247,443,TRUE,SIN,Asia Pacific,Singapore,212 ms,8048 kB/s
+8.222.144.152,443,TRUE,SIN,Asia Pacific,Singapore,218 ms,7980 kB/s
+8.219.175.122,443,TRUE,SIN,Asia Pacific,Singapore,100 ms,7619 kB/s
+8.222.131.79,443,TRUE,SIN,Asia Pacific,Singapore,218 ms,7615 kB/s
+8.219.7.175,443,TRUE,SIN,Asia Pacific,Singapore,84 ms,7409 kB/s
+8.219.10.23,443,TRUE,SIN,Asia Pacific,Singapore,86 ms,7230 kB/s
 38.38.116.189,443,TRUE,LAX,North America,Los Angeles,199 ms,10968 kB/s
 38.38.116.186,443,TRUE,LAX,North America,Los Angeles,204 ms,10938 kB/s
 38.38.116.184,443,TRUE,LAX,North America,Los Angeles,191 ms,10753 kB/s
