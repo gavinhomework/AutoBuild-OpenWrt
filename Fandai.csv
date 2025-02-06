@@ -9,13 +9,11 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 8.219.104.94,443,TRUE,SIN,Asia Pacific,Singapore,86 ms,10435 kB/s
 8.219.154.186,443,TRUE,SIN,Asia Pacific,Singapore,122 ms,8544 kB/s
 8.222.161.125,443,TRUE,SIN,Asia Pacific,Singapore,230 ms,8148 kB/s
-47.76.235.251,443,TRUE,HKG,Asia Pacific,Hong Kong,54 ms,27148 kB/s
-8.217.22.201,443,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,16925 kB/s
-8.217.22.201,443,TRUE,HKG,Asia Pacific,Hong Kong,48 ms,16688 kB/s
-8.210.140.91,443,TRUE,HKG,Asia Pacific,Hong Kong,48 ms,8087 kB/s
-47.236.106.19,443,TRUE,HKG,Asia Pacific,Hong Kong,217 ms,7567 kB/s
-47.76.159.113,443,TRUE,HKG,Asia Pacific,Hong Kong,50 ms,4156 kB/s
-47.76.109.231,443,TRUE,HKG,Asia Pacific,Hong Kong,55 ms,4131 kB/s
+154.12.179.166,443,TRUE,HKG,Asia Pacific,Hong Kong,64 ms,11262 kB/s
+154.3.34.59,443,TRUE,HKG,Asia Pacific,Hong Kong,54 ms,9281 kB/s
+154.12.177.214,443,TRUE,HKG,Asia Pacific,Hong Kong,53 ms,8941 kB/s
+154.3.32.37,443,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,7398 kB/s
+154.3.37.10,443,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,6922 kB/s
 38.38.116.189,443,TRUE,LAX,North America,Los Angeles,199 ms,10968 kB/s
 38.38.116.186,443,TRUE,LAX,North America,Los Angeles,204 ms,10938 kB/s
 38.38.116.184,443,TRUE,LAX,North America,Los Angeles,191 ms,10753 kB/s
