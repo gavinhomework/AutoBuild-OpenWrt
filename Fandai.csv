@@ -20,6 +20,16 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 38.28.222.83,443,TRUE,LAX,North America,Los Angeles,202 ms,9520 kB/s
 38.28.222.68,443,TRUE,LAX,North America,Los Angeles,204 ms,9485 kB/s
 47.79.41.201,443,TRUE,SJC,North America,San Jose,81 ms,21628 kB/s
+172.67.3.164,443,TRUE,FRA,Europe,Frankfurt,140 ms,17710 kB/s
+172.67.7.216,443,TRUE,FRA,Europe,Frankfurt,132 ms,15002 kB/s
+172.67.10.7,443,TRUE,FRA,Europe,Frankfurt,143 ms,14820 kB/s
+172.67.3.226,443,TRUE,FRA,Europe,Frankfurt,133 ms,13873 kB/s
+172.67.3.248,443,TRUE,FRA,Europe,Frankfurt,134 ms,13866 kB/s
+172.64.229.181,443,TRUE,FRA,Europe,Frankfurt,130 ms,13522 kB/s
+172.67.6.105,443,TRUE,FRA,Europe,Frankfurt,132 ms,13429 kB/s
+172.67.7.221,443,TRUE,FRA,Europe,Frankfurt,141 ms,13389 kB/s
+172.67.12.135,443,TRUE,FRA,Europe,Frankfurt,134 ms,13263 kB/s
+172.67.5.184,443,TRUE,FRA,Europe,Frankfurt,133 ms,13117 kB/s
 47.79.35.128,443,TRUE,NRT,Asia Pacific,Tokyo,64 ms,19484 kB/s
 8.222.107.251,443,TRUE,NRT,Asia Pacific,Tokyo,70 ms,8943 kB/s
 47.79.41.159,443,TRUE,NRT,Asia Pacific,Tokyo,64 ms,8869 kB/s
