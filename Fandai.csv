@@ -5,10 +5,10 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 172.64.153.86,443,TRUE,HKG,Asia Pacific,Hong Kong,72 ms,21340 kB/s
 172.64.146.57,443,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,20942 kB/s
 172.64.146.30,443,TRUE,HKG,Asia Pacific,Hong Kong,59 ms,20414 kB/s
-172.64.153.90,443,TRUE,HKG,Asia Pacific,Hong Kong,57 ms,19912 kB/s
-172.64.153.55,443,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,19770 kB/s
-172.64.153.20,443,TRUE,HKG,Asia Pacific,Hong Kong,54 ms,19704 kB/s
-172.64.146.37,443,TRUE,HKG,Asia Pacific,Hong Kong,57 ms,19670 kB/s
+47.76.85.84,443,TRUE,HK,Hong Kong,中转,49 ms,30310 kB/s
+8.223.15.4,443,TRUE,HK,Hong Kong,中转,50 ms,32051 kB/s
+47.76.176.21,443,TRUE,HK,Hong Kong,中转,52 ms,2838 kB/s
+47.76.198.150,443,TRUE,HK,Hong Kong,中转,109 ms,5022 kB/s
 8.219.199.105,443,TRUE,SG,Asia Pacific,Singapore,58 ms,10854 kB/s
 8.219.237.119,443,TRUE,SG,Asia Pacific,Singapore,59 ms,10956 kB/s
 8.219.218.228,443,TRUE,SG,Asia Pacific,Singapore,60 ms,11571 kB/s
