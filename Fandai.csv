@@ -9,16 +9,16 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 8.223.15.4,443,TRUE,HK,Hong Kong,中转,50 ms,32051 kB/s
 47.76.176.21,443,TRUE,HK,Hong Kong,中转,52 ms,2838 kB/s
 47.76.198.150,443,TRUE,HK,Hong Kong,中转,109 ms,5022 kB/s
-8.219.199.105,443,TRUE,SG,Asia Pacific,Singapore,58 ms,10854 kB/s
-8.219.237.119,443,TRUE,SG,Asia Pacific,Singapore,59 ms,10956 kB/s
-8.219.218.228,443,TRUE,SG,Asia Pacific,Singapore,60 ms,11571 kB/s
-8.219.62.92,443,TRUE,SG,Asia Pacific,Singapore,61 ms,11673 kB/s
-8.219.51.19,443,TRUE,SG,Asia Pacific,Singapore,62 ms,12492 kB/s
-8.219.248.251,443,TRUE,SG,Asia Pacific,Singapore,63 ms,12492 kB/s
-8.219.109.58,443,TRUE,SG,Asia Pacific,Singapore,64 ms,12697 kB/s
-8.219.105.225,443,TRUE,SG,Asia Pacific,Singapore,65 ms,13107 kB/s
-8.219.73.103,443,TRUE,SG,Asia Pacific,Singapore,66 ms,13824 kB/s
-8.219.125.8,443,TRUE,SG,Asia Pacific,Singapore,67 ms,14336 kB/s
+150.230.253.129,443,2602:ffe4:407:20da:0:4342:d100:6417,SG,Singapore,隧道,126 ms,8848 kB/s
+140.245.77.58,443,2602:ffe4:407:20d9:0:3995:3c77:4f32,SG,Singapore,隧道,126 ms,5584 kB/s
+158.180.89.225,443,2602:ffe4:407:20da:0:cf07:7a5:c568,SG,Singapore,隧道,126 ms,10547 kB/s
+158.180.75.210,443,2602:ffe4:407:20d9:0:d718:b88e:a612,SG,Singapore,隧道,127 ms,8738 kB/s
+129.154.49.136,443,2602:ffe4:407:21d9:0:8d42:6f5a:5d9c,SG,Singapore,隧道,127 ms,4224 kB/s
+144.24.69.106,443,2602:ffe4:407:20d9:0:cb05:e507:1e37,SG,Singapore,隧道,127 ms,6750 kB/s
+140.245.77.175,443,2602:ffe4:407:21d9:0:c17a:6112:e0e6,SG,Singapore,隧道,127 ms,10854 kB/s
+134.185.103.33,443,2602:ffe4:407:21d9:0:845e:609f:e6b,SG,Singapore,隧道,145 ms,5830 kB/s
+134.185.96.228,443,2602:ffe4:407:20d9:0:ebc2:3a58:94c2,SG,Singapore,隧道,145 ms,9095 kB/s
+158.180.66.238,443,2602:ffe4:407:21d9:0:8960:9d8c:d09,SG,Singapore,隧道,146 ms,6545 kB/s
 38.38.116.189,443,TRUE,US,North America,Los Angeles,199 ms,10968 kB/s
 38.38.116.186,443,TRUE,US,North America,Los Angeles,204 ms,10938 kB/s
 38.38.116.184,443,TRUE,US,North America,Los Angeles,191 ms,10753 kB/s
