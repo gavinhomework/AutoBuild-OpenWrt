@@ -40,13 +40,9 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 172.67.7.221,443,TRUE,DE,Europe,Frankfurt,141 ms,13389 kB/s
 172.67.12.135,443,TRUE,DE,Europe,Frankfurt,134 ms,13263 kB/s
 172.67.5.184,443,TRUE,DE,Europe,Frankfurt,133 ms,13117 kB/s
-8.222.71.248,443,TRUE,JP,Asia Pacific,Tokyo,134 ms,15872 kB/s
-8.222.107.130,443,TRUE,JP,Asia Pacific,Tokyo,135 ms,16179 kB/s
-8.222.77.136,443,TRUE,JP,Asia Pacific,Tokyo,136 ms,17715 kB/s
-8.222.108.71,443,TRUE,JP,Asia Pacific,Tokyo,137 ms,17817 kB/s
-8.222.93.3,443,TRUE,JP,Asia Pacific,Tokyo,138 ms,18432 kB/s
-47.79.34.47,443,TRUE,JP,Asia Pacific,Tokyo,139 ms,20992 kB/s
-47.79.36.165,443,TRUE,JP,Asia Pacific,Tokyo,140 ms,21606 kB/s
-47.79.91.43,443,TRUE,JP,Asia Pacific,Tokyo,141 ms,28672 kB/s
-47.79.43.147,443,TRUE,JP,Asia Pacific,Tokyo,142 ms,31232 kB/s
-47.79.34.75,443,TRUE,JP,Asia Pacific,Tokyo,143 ms,996 kB/s
+47.79.84.167,443,TRUE,JP,Asia Pacific,Tokyo,134 ms,15872 kB/s
+47.91.18.127,443,TRUE,JP,Asia Pacific,Tokyo,135 ms,16179 kB/s
+47.79.35.89,443,TRUE,JP,Asia Pacific,Tokyo,136 ms,17715 kB/s
+47.79.43.147,443,TRUE,JP,Asia Pacific,Tokyo,137 ms,17817 kB/s
+47.79.41.201,443,TRUE,JP,Asia Pacific,Tokyo,138 ms,18432 kB/s
+47.79.88.27,443,TRUE,JP,Asia Pacific,Tokyo,139 ms,20992 kB/s
