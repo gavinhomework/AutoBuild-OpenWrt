@@ -1,48 +1,51 @@
-IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
-172.64.153.4,443,TRUE,HKG,Asia Pacific,Hong Kong,50 ms,26388 kB/s
-172.64.153.87,443,TRUE,HKG,Asia Pacific,Hong Kong,60 ms,25482 kB/s
-172.64.153.94,443,TRUE,HKG,Asia Pacific,Hong Kong,69 ms,21499 kB/s
-172.64.153.86,443,TRUE,HKG,Asia Pacific,Hong Kong,72 ms,21340 kB/s
-172.64.146.57,443,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,20942 kB/s
-172.64.146.30,443,TRUE,HKG,Asia Pacific,Hong Kong,59 ms,20414 kB/s
-47.76.85.84,443,TRUE,HK,Hong Kong,涓浆,49 ms,30310 kB/s
-8.223.15.4,443,TRUE,HK,Hong Kong,涓浆,50 ms,32051 kB/s
-47.76.176.21,443,TRUE,HK,Hong Kong,涓浆,52 ms,2838 kB/s
-47.76.198.150,443,TRUE,HK,Hong Kong,涓浆,109 ms,5022 kB/s
-150.230.253.129,443,2602:ffe4:407:20da:0:4342:d100:6417,SG,Singapore,闅ч亾,126 ms,8848 kB/s
-140.245.77.58,443,2602:ffe4:407:20d9:0:3995:3c77:4f32,SG,Singapore,闅ч亾,126 ms,5584 kB/s
-158.180.89.225,443,2602:ffe4:407:20da:0:cf07:7a5:c568,SG,Singapore,闅ч亾,126 ms,10547 kB/s
-158.180.75.210,443,2602:ffe4:407:20d9:0:d718:b88e:a612,SG,Singapore,闅ч亾,127 ms,8738 kB/s
-129.154.49.136,443,2602:ffe4:407:21d9:0:8d42:6f5a:5d9c,SG,Singapore,闅ч亾,127 ms,4224 kB/s
-144.24.69.106,443,2602:ffe4:407:20d9:0:cb05:e507:1e37,SG,Singapore,闅ч亾,127 ms,6750 kB/s
-140.245.77.175,443,2602:ffe4:407:21d9:0:c17a:6112:e0e6,SG,Singapore,闅ч亾,127 ms,10854 kB/s
-134.185.103.33,443,2602:ffe4:407:21d9:0:845e:609f:e6b,SG,Singapore,闅ч亾,145 ms,5830 kB/s
-134.185.96.228,443,2602:ffe4:407:20d9:0:ebc2:3a58:94c2,SG,Singapore,闅ч亾,145 ms,9095 kB/s
-158.180.66.238,443,2602:ffe4:407:21d9:0:8960:9d8c:d09,SG,Singapore,闅ч亾,146 ms,6545 kB/s
-38.38.116.189,443,TRUE,US,North America,Los Angeles,199 ms,10968 kB/s
-38.38.116.186,443,TRUE,US,North America,Los Angeles,204 ms,10938 kB/s
-38.38.116.184,443,TRUE,US,North America,Los Angeles,191 ms,10753 kB/s
-38.38.116.180,443,TRUE,US,North America,Los Angeles,202 ms,9981 kB/s
-38.28.222.84,443,TRUE,US,North America,Los Angeles,173 ms,9864 kB/s
-38.38.116.183,443,TRUE,US,North America,Los Angeles,172 ms,9783 kB/s
-38.28.194.80,443,TRUE,US,North America,Los Angeles,204 ms,9649 kB/s
-38.28.198.155,443,TRUE,US,North America,Los Angeles,193 ms,9591 kB/s
-38.28.222.83,443,TRUE,US,North America,Los Angeles,202 ms,9520 kB/s
-38.28.222.68,443,TRUE,US,North America,Los Angeles,204 ms,9485 kB/s
-47.79.41.201,443,TRUE,SJC,North America,San Jose,81 ms,21628 kB/s
-172.67.3.164,443,TRUE,DE,Europe,Frankfurt,140 ms,17710 kB/s
-172.67.7.216,443,TRUE,DE,Europe,Frankfurt,132 ms,15002 kB/s
-172.67.10.7,443,TRUE,DE,Europe,Frankfurt,143 ms,14820 kB/s
-172.67.3.226,443,TRUE,DE,Europe,Frankfurt,133 ms,13873 kB/s
-172.67.3.248,443,TRUE,DE,Europe,Frankfurt,134 ms,13866 kB/s
-172.64.229.181,443,TRUE,DE,Europe,Frankfurt,130 ms,13522 kB/s
-172.67.6.105,443,TRUE,DE,Europe,Frankfurt,132 ms,13429 kB/s
-172.67.7.221,443,TRUE,DE,Europe,Frankfurt,141 ms,13389 kB/s
-172.67.12.135,443,TRUE,DE,Europe,Frankfurt,134 ms,13263 kB/s
-172.67.5.184,443,TRUE,DE,Europe,Frankfurt,133 ms,13117 kB/s
-47.79.84.167,443,TRUE,JP,Asia Pacific,Tokyo,134 ms,15872 kB/s
-47.91.18.127,443,TRUE,JP,Asia Pacific,Tokyo,135 ms,16179 kB/s
-47.79.35.89,443,TRUE,JP,Asia Pacific,Tokyo,136 ms,17715 kB/s
-47.79.43.147,443,TRUE,JP,Asia Pacific,Tokyo,137 ms,17817 kB/s
-47.79.41.201,443,TRUE,JP,Asia Pacific,Tokyo,138 ms,18432 kB/s
-47.79.88.27,443,TRUE,JP,Asia Pacific,Tokyo,139 ms,20992 kB/s
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度,
+8.219.59.159,443,47.236.51.143,SG,Singapore,隧道,99 ms,71 Mbps,9187 kB/s
+47.250.139.249,443,47.250.139.249,MY,Kuala Lumpur,中转,197 ms,26 Mbps,3336 kB/s
+47.237.146.131,443,8.219.69.217,SG,Singapore,隧道,220 ms,57 Mbps,7344 kB/s
+47.237.117.6,443,8.222.213.200,SG,Singapore,隧道,214 ms,52 Mbps,6677 kB/s
+47.236.54.5,443,47.245.125.52,SG,Singapore,隧道,227 ms,56 Mbps,7223 kB/s
+47.237.75.6,443,8.222.207.55,SG,Singapore,隧道,226 ms,57 Mbps,7301 kB/s
+47.81.9.160,443,47.81.9.160,TH,Bangkok,中转,252 ms,25 Mbps,3220 kB/s
+8.221.126.227,443,8.221.126.227,US,Ashburn,中转,252 ms,38 Mbps,4915 kB/s
+8.219.88.202,443,8.219.96.61,SG,Tokyo,隧道,228 ms,50 Mbps,6408 kB/s
+47.236.30.166,443,47.245.114.12,SG,Singapore,隧道,213 ms,30 Mbps,3869 kB/s
+47.237.132.182,443,8.219.69.217,SG,Singapore,隧道,217 ms,46 Mbps,6014 kB/s
+8.222.166.151,443,47.84.41.244,SG,Singapore,隧道,120 ms,73 Mbps,9367 kB/s
+8.222.209.54,443,47.84.41.244,SG,Singapore,隧道,100 ms,55 Mbps,7166 kB/s
+47.237.91.26,443,47.245.127.33,SG,Singapore,隧道,217 ms,13 Mbps,1728 kB/s
+47.237.142.176,443,8.222.236.107,SG,Singapore,隧道,221 ms,56 Mbps,7213 kB/s
+47.236.253.17,443,47.84.41.244,SG,Singapore,隧道,223 ms,43 Mbps,5609 kB/s
+47.245.85.72,443,47.245.85.72,SG,Singapore,中转,220 ms,50 Mbps,6455 kB/s
+47.237.125.183,443,47.236.58.234,SG,Singapore,隧道,214 ms,45 Mbps,5782 kB/s
+47.79.93.248,443,47.79.93.248,JP,Tokyo,中转,83 ms,88 Mbps,11366 kB/s
+8.219.198.9,443,8.219.116.219,SG,Singapore,隧道,215 ms,77 Mbps,9979 kB/s
+8.222.207.228,443,8.219.69.217,SG,Singapore,隧道,117 ms,19 Mbps,2533 kB/s
+8.222.136.68,443,8.222.240.96,SG,Singapore,隧道,211 ms,48 Mbps,6147 kB/s
+47.236.62.71,443,8.222.210.246,SG,Singapore,隧道,219 ms,56 Mbps,7239 kB/s
+8.219.0.201,443,47.245.84.175,SG,Singapore,隧道,97 ms,51 Mbps,6655 kB/s
+47.236.57.79,443,47.236.58.234,SG,Singapore,隧道,217 ms,58 Mbps,7444 kB/s
+47.237.98.1,443,8.219.96.61,SG,Singapore,隧道,224 ms,51 Mbps,6599 kB/s
+47.236.56.156,443,8.222.236.107,SG,Singapore,隧道,220 ms,53 Mbps,6832 kB/s
+8.219.159.152,443,8.219.69.217,SG,Singapore,隧道,118 ms,18 Mbps,2384 kB/s
+47.238.89.163,443,47.238.89.163,HK,Hong Kong,中转,52 ms,88 Mbps,11366 kB/s
+47.89.155.85,443,47.89.155.85,US,Ashburn,中转,253 ms,45 Mbps,5862 kB/s
+47.237.64.187,443,47.245.114.12,SG,Singapore,隧道,220 ms,30 Mbps,3890 kB/s
+47.237.166.238,443,47.245.84.175,SG,Singapore,隧道,222 ms,55 Mbps,7089 kB/s
+8.222.242.35,443,47.84.41.244,SG,Singapore,隧道,221 ms,56 Mbps,7241 kB/s
+47.236.232.36,443,47.245.125.52,SG,Singapore,隧道,218 ms,56 Mbps,7208 kB/s
+8.222.150.121,443,47.84.41.244,SG,Singapore,隧道,219 ms,47 Mbps,6108 kB/s
+47.236.17.197,443,47.236.1.53,SG,Singapore,隧道,229 ms,53 Mbps,6835 kB/s
+47.250.153.156,443,47.250.153.156,MY,Kuala Lumpur,中转,204 ms,67 Mbps,8623 kB/s
+47.237.122.30,443,8.219.142.198,SG,Singapore,隧道,226 ms,14 Mbps,1884 kB/s
+8.222.192.12,443,47.84.40.188,SG,Singapore,隧道,221 ms,60 Mbps,7690 kB/s
+8.220.203.37,443,8.220.203.37,KR,Seoul,中转,123 ms,80 Mbps,10342 kB/s
+47.236.36.172,443,8.219.116.219,SG,Singapore,隧道,217 ms,59 Mbps,7603 kB/s
+47.250.59.132,443,47.250.59.132,MY,Kuala Lumpur,中转,197 ms,60 Mbps,7782 kB/s
+47.238.137.118,443,47.238.137.118,HK,Hong Kong,中转,49 ms,10 Mbps,1355 kB/s
+47.250.139.59,443,47.250.139.59,MY,Kuala Lumpur,中转,201 ms,2 Mbps,279 kB/s
+47.239.125.132,443,47.239.125.132,HK,Hong Kong,中转,50 ms,58 Mbps,7502 kB/s
+47.237.145.244,443,47.84.41.244,SG,Singapore,隧道,222 ms,19 Mbps,2489 kB/s
+8.222.156.113,443,8.219.69.217,SG,Singapore,隧道,126 ms,54 Mbps,6974 kB/s
+47.76.218.163,443,47.76.218.163,HK,Hong Kong,中转,51 ms,10 Mbps,1285 kB/s
+8.222.237.72,443,8.222.237.72,SG,Singapore,中转,219 ms,59 Mbps,7669 kB/s
+8.219.223.218,443,8.219.116.219,SG,Singapore,隧道,215 ms,60 Mbps,7692 kB/s
